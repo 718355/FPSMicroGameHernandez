@@ -5277,6 +5277,32 @@ PrefabInstance:
       propertyPath: m_Name
       value: Weapon_BurstRifle
       objectReference: {fileID: 0}
+    - target: {fileID: 5542646626207791632, guid: e7666ab371f67d24893458b064d35698,
+        type: 3}
+      propertyPath: CrosshairDataTargetInSight.CrosshairSize
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5542646626207791632, guid: e7666ab371f67d24893458b064d35698,
+        type: 3}
+      propertyPath: CrosshairDataTargetInSight.CrosshairSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e881aa18189b12f4e915fc5b14ddc421,
+        type: 3}
+    - target: {fileID: 5542646626207791632, guid: e7666ab371f67d24893458b064d35698,
+        type: 3}
+      propertyPath: CrosshairDataTargetInSight.CrosshairColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5542646626207791632, guid: e7666ab371f67d24893458b064d35698,
+        type: 3}
+      propertyPath: CrosshairDataTargetInSight.CrosshairColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5542646626207791632, guid: e7666ab371f67d24893458b064d35698,
+        type: 3}
+      propertyPath: CrosshairDataTargetInSight.CrosshairColor.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8204040319279141839, guid: e7666ab371f67d24893458b064d35698,
         type: 3}
       propertyPath: m_RootOrder
