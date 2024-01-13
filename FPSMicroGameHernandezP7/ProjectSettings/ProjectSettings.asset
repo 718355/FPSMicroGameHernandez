@@ -3,8 +3,13 @@
 --- !u!129 &1
 PlayerSettings:
   m_ObjectHideFlags: 0
+<<<<<<< HEAD
   serializedVersion: 26
   productGUID: df9ee1f3248f04b43a5ad4f009bd0137
+=======
+  serializedVersion: 24
+  productGUID: 04805583b15eb254b8c10f8806e87191
+>>>>>>> 84bb13b08b3c563c4f7cd6b622a6a44d000581ca
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -276,6 +281,7 @@ PlayerSettings:
   AndroidValidateAppBundleSize: 1
   AndroidAppBundleSizeToValidate: 150
   m_BuildTargetIcons: []
+<<<<<<< HEAD
   m_BuildTargetPlatformIcons:
   - m_BuildTarget: Android
     m_Icons:
@@ -503,6 +509,9 @@ PlayerSettings:
       m_Height: 1024
       m_Kind: 4
       m_SubKind: App Store
+=======
+  m_BuildTargetPlatformIcons: []
+>>>>>>> 84bb13b08b3c563c4f7cd6b622a6a44d000581ca
   m_BuildTargetBatching:
   - m_BuildTarget: Standalone
     m_StaticBatching: 0

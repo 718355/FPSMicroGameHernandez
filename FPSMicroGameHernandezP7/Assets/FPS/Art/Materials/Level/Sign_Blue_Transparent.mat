@@ -22,8 +22,11 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Sign_Blue_Transparent
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
+<<<<<<< HEAD
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
+=======
+>>>>>>> 84bb13b08b3c563c4f7cd6b622a6a44d000581ca
   m_ValidKeywords:
   - _ALPHAPREMULTIPLY_ON
   - _EMISSION

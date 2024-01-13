@@ -9,8 +9,11 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: HealthCube
   m_Shader: {fileID: 4800000, guid: b7839dad95683814aa64166edc107ae2, type: 3}
+<<<<<<< HEAD
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
+=======
+>>>>>>> 84bb13b08b3c563c4f7cd6b622a6a44d000581ca
   m_ValidKeywords:
   - _ALPHAPREMULTIPLY_ON
   - _EMISSION
